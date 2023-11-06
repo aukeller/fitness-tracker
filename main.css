@@ -1,0 +1,16 @@
+/* Style the header (Week 1) */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f0f0f0;
+  padding: 20px;
+}
+
+/* Style the subsections (days of the week) */
+div {
+  background-color: #ffffff;
+  border: 1px solid #ccc;
+  padding: 10px;
+  margin: 10px;
+  border-radius: 5px;
+  box-shadow: 2px 2px 5px #aaa;
+}
